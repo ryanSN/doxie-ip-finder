@@ -1,0 +1,10 @@
+# Logs
+logs
+*.log
+*.log.*
+
+
+coverage
+node_modules
+dist
+*.npmrc

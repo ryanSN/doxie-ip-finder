@@ -1,0 +1,30 @@
+{
+  "name": "doxie-ip-finder",
+  "version": "0.0.1",
+  "description": "scanner to find your WiFi enabled Doxie scanner. ",
+  "main": "index.js",
+  "repository": "git@github.com:ryanSN/doxie-ip-finder.git",
+  "author": "ryanSn <ryan.chatterton@sharpnotions.com>",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "doxie",
+    "doxie q",
+    "doxie go se",
+    "doxie go",
+    "doxie go wi-fi",
+    "api",
+    "wrapper",
+    "js"
+  ],
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  },
+  "devDependencies": {
+    "husky": "^3.0.8",
+    "prettier": "^1.18.2",
+    "pretty-quick": "^1.11.1"
+  }
+}
