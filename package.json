@@ -6,6 +6,9 @@
   "repository": "git@github.com:ryanSN/doxie-ip-finder.git",
   "author": "ryanSn <ryan.chatterton@sharpnotions.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "keywords": [
     "node",
     "doxie",
